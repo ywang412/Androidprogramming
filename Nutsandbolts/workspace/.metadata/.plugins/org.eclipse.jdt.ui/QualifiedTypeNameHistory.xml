@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.app.AlertDialog.Builder"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.android.notesquirrel.R.string"/>
+<fullyQualifiedTypeName name="android.app.AlertDialog"/>
+<fullyQualifiedTypeName name="android.os.AsyncTask"/>
+<fullyQualifiedTypeName name="android.content.SharedPreferences.Editor"/>
+<fullyQualifiedTypeName name="android.content.SharedPreferences"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.android.notesquirrel.PointCollector"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.android.notesquirrel.ImageActivity"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.android.notesquirrel.R.menu"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.android.notesquirrel.R.id"/>
+<fullyQualifiedTypeName name="android.widget.AdapterView.OnItemSelectedListener"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="android.widget.AdapterView.OnItemClickListener"/>
+<fullyQualifiedTypeName name="android.widget.Toast"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.sample.list.MainActivity"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.sample.list.R.string"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.sample.list.R.array"/>
+<fullyQualifiedTypeName name="android.widget.ArrayAdapter"/>
+<fullyQualifiedTypeName name="android.R"/>
+<fullyQualifiedTypeName name="android.R.layout"/>
+<fullyQualifiedTypeName name="android.view.LayoutInflater"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.sample.list.CustomListAdapter"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.sample.list.R.layout"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.sample.list.R.id"/>
+<fullyQualifiedTypeName name="android.widget.BaseAdapter"/>
+<fullyQualifiedTypeName name="android.widget.ListAdapter"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.samples.lists.MessageAdapter"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.samples.lists.R.drawable"/>
+<fullyQualifiedTypeName name="java.net.URI"/>
+<fullyQualifiedTypeName name="android.graphics.BitmapFactory"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="com.caveofprogramming.android.notesquirrel.MainActivity"/>
+<fullyQualifiedTypeName name="android.preference.Preference"/>
+<fullyQualifiedTypeName name="java.util.prefs.Preferences"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore.Images"/>
+<fullyQualifiedTypeName name="android.provider.MediaStore.Images.Media"/>
+</qualifiedTypeNameHistroy>

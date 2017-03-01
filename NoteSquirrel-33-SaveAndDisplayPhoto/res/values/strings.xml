@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Save+Display-33</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="another_activity">Another Activity</string>
+    <string name="title_activity_another">Another</string>
+    <string name="snap">Cámara</string>
+    <string name="clickMain">Click Main</string>
+    <string name="unable_to_save_photo_file">Unable to save photo file</string>
+    <string name="camera_image">Camera image</string>   
+
+  
+
+</resources>

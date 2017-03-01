@@ -1,0 +1,132 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-10-13T13:55:52.107+02:00",
+    "location": "C:\\tutorial\\android\\workspace\\Launching Sub-Activities\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-10-07T19:00:06.632+02:00",
+    "location": "C:\\tutorial\\android\\workspace\\dbtest\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5ad8ede41493307ce2991a10abfe5350a5f57b7f",
+    "jarFileModificationDate": "2012-09-28T21:18:06.502+02:00",
+    "location": "C:\\Users\\John\\android-sdks\\platforms\\android-14\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-09-28T22:48:50.439+02:00",
+    "location": "C:\\tutorial\\android\\workspace\\NoteSquirrel\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-10-15T11:45:55.926+02:00",
+    "location": "C:\\tutorial\\android\\workspace\\ListView\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3dcce76e951c5ffaf5fc1e15001bbf62b54e9857",
+    "jarFileModificationDate": "2012-09-28T20:33:03.731+02:00",
+    "location": "C:\\Users\\John\\android-sdks\\platforms\\android-16\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-10-16T23:41:09.968+02:00",
+    "location": "C:\\tutorial\\android\\workspace\\Custom Lists\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "612846c9857077a039b533718f72db3bc041d389",
+    "jarFileModificationDate": "2012-10-13T16:28:14.726+02:00",
+    "location": "C:\\tutorial\\android\\workspace\\Taking a Photo\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "annotations",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f68f82be8f2051d277ee74fb859d63de8e33053c",
+    "jarFileModificationDate": "2012-09-28T20:31:23.779+02:00",
+    "location": "C:\\Users\\John\\android-sdks\\tools\\support\\annotations.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b50d42b32e1d8a6c2d5f19a846474d5e2199c68e",
+    "jarFileModificationDate": "2012-09-28T22:03:12.608+02:00",
+    "location": "C:\\Users\\John\\android-sdks\\platforms\\android-10\\android.jar",
+    "javaRuntime": false
+  }
+]
